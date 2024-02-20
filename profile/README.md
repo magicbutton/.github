@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+The `MagicButton` is a trademark invented by Niels Gregers Johansen and owned by the www.kronborgfonden.dk - (C) 2024 All Rights Reserved.
 <!--
 
 **Here are some ideas to get you started:**
